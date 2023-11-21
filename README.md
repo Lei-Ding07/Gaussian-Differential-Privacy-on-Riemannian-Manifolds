@@ -1,5 +1,6 @@
 # Gaussian-Differential-Privacy-on-Riemannian-Manifolds
 Code repo for paper Gaussian Differential Privacy on Riemannian Manifolds (Neurips 2023)
+https://arxiv.org/abs/2311.10101
 
 ## Simulation on the Euclidean space R
 
